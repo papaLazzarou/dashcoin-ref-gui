@@ -1,0 +1,6 @@
+[submodule "dashcoin"]
+	path = dashcoin
+	url = https://github.com/papaLazzarou/dashcoin
+[submodule "cryptonote"]
+	path = cryptonote
+	url = https://github.com/papaLazzarou/dashcoin
